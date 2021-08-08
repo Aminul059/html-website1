@@ -1,0 +1,28 @@
+
+body{
+    background-image: linear-gradient(white,lightgreen);
+    
+}
+header{
+    text-align: center;
+}
+
+main div ul{
+    font-size: 25px;
+}
+#heading{
+    text-align: center;
+}
+.body-content{
+    padding-left: 15%;
+}
+.name-list{
+    display : flex;
+    justify-content: space-around;
+}
+.name-list{
+    font-size: 20px;
+}
+footer div{
+    text-align: center;
+}
